@@ -1,5 +1,7 @@
+//divisible by 5
 #include<stdio.h>
-main()
+
+int main()
 {
     int a;
     printf("enter a number:");

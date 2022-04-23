@@ -1,3 +1,4 @@
+//discount 
 #include<stdio.h>
 main(){
 int price;

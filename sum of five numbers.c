@@ -1,4 +1,4 @@
-
+//a program to find sum of five numbers
 #include<stdio.h>
 int main()
 {

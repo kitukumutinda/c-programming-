@@ -1,3 +1,4 @@
+// a program to check if a number is old or even
 #include<stdio.h>
 main(){
 int a;

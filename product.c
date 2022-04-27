@@ -1,4 +1,4 @@
-
+//a program to determine product
 #include<stdio.h>
 int main()
 {

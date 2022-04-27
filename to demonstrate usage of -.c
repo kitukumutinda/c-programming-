@@ -1,4 +1,6 @@
+//a program to demonstrate the usage of-
 #include<stdio.h>
+
 int main()
 {
     int a,b,c;

@@ -1,3 +1,4 @@
+//a program to demonstrate the usage of multiplication sign
 #include<stdio.h>
 int main()
 {

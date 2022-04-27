@@ -1,3 +1,4 @@
+//a program to determine if eligible to vote or not
 #include<stdio.h>
 main(){
 int age,id;
